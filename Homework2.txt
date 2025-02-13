@@ -1,0 +1,32 @@
+1. I had to use commands mainly to navigate the directories 
+of my computer. the ls command to see what files are in my 
+current directory, cd to move to a specific directory,
+the mkdir "name" to create the directory are all things 
+I had to use for this assignment. Also the pico interactions
+as well were things that I had to mess around with to get 
+comfortable with. In particular the CTRL + "some sort of key"
+to be able to navigate the menu effectively without a mouse 
+input. In terms of git, there was the configuration commands for
+config user email and name so github can find my VM. There
+also was the add, commit, and push commands to verify the 
+changes to the document (add), secure the document in the 
+local repository (commit), and publish the updated 
+repository to the Github server (push). Obviously the way 
+I would have had to do that was also by cloning the 
+repository onto my VM. *I'm not 100% sure that it will stay 
+on my system as a local repository permenantly or if I'll
+have to clone the repository each time. I'm not sure.* These
+commands were outlined for me in the guide you provided.
+
+2. There has to be a reference page made for submission 
+for each homework assignment. This is to protect yourself
+from any plagerism cases and to give credit where credit is
+due. 
+
+3. We will lose points/have missing assignments in our grade.
+
+4. The penalty of missing class, aside from the attendance 
+grade, is the knowledge gap that is created from missing 
+lecture where everything is explained. This will cause a 
+cascading effect on work and make the assignments 
+exponentially harder. 
