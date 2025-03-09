@@ -23,7 +23,7 @@ for each homework assignment. This is to protect yourself
 from any plagerism cases and to give credit where credit is
 due. 
 
-3. We will lose points/have missing assignments in our grade.
+3. We will lose points/have missing assignments in our grade. (Added by grader) -------> It's 10% off for each day you submit late
 
 4. The penalty of missing class, aside from the attendance 
 grade, is the knowledge gap that is created from missing 
